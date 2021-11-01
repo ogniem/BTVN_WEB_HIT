@@ -1,0 +1,62 @@
+
+.container{
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border:5px solid blue;
+
+   
+   
+}
+.h{
+    display: flex;
+    align-items: center;
+}
+
+.h2 {
+    display: flex;
+}
+.box{
+    width: 80px;
+    height: 80px;
+    background-color: orange;
+}
+.t{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.t_1{
+    display: flex;
+}   
+.t_2{
+
+}
+
+.i {
+    margin: 0 30px;
+}
+
+.one{
+    margin: 0 12px;
+}
+
+.two{   
+
+}
+.two_1{
+    display: flex;
+}
+.two_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.two_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
